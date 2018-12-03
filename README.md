@@ -1,5 +1,7 @@
 __REDACTION INTRO__
 
+NOUVEL ELEMENT 
+
 1 / Ce projet de mémoire essaye de dessiner les enjeux contemporains auxquels font face la publication - entendue comme tout objet ayant pour but de rendre public - et tente d'entrevoir les possibilités qu'offre le numérique, en terme d'espace et d'outils.
 --> Nécessite de définir le terme de publication, ses enjeux
 --> Quels problématiques émergent? 
